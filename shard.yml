@@ -1,0 +1,13 @@
+name: demo
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  demo:
+    main: src/demo.cr
+
+crystal: 0.26.0
+
+license: MIT
